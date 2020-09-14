@@ -37,4 +37,4 @@ Layers eru mismunandi lög leiksins sem hægt er að nota til að breyta ýmsu, 
   þar sem þú getur séð og breytt eiginleikum game objects  
   
   
-Síðan er windows binary í boði í ['releases'](https://github.com/marteinnsi/2gl_verkefni_1/releases)
+**Síðan er windows binary í boði í ['releases'](https://github.com/marteinnsi/2gl_verkefni_1/releases)**
